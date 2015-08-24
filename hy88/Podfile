@@ -1,0 +1,17 @@
+platform :ios,'7.0'
+
+inhibit_all_warnings!
+
+pod 'AFNetworking', '~> 2.5.3'
+pod 'Reachability', '~> 3.2'
+pod 'SDWebImage', '~> 3.7.2'
+pod 'MBProgressHUD', '~> 0.9.1'
+#pod 'SSZipArchive', '~> 0.3.2'
+#pod 'libqrencode', '~> 3.4.2'
+#pod 'Mantle', '~> 2.0'
+#pod 'PureLayout'
+#pod 'RBBAnimation', '~> 0.4.0'
+pod 'UMengAnalytics', '~> 3.5.8'
+pod  'QTPaySDK_UI_All'
+#pod 'MJRefresh', '~> 2.2.1'
+#pod 'IQKeyboardManager'
